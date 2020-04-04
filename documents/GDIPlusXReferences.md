@@ -9,7 +9,7 @@
 * [Visual Styles Reference (API for XP Themes)](http://msdn.microsoft.com/en-us/library/bb773187.aspx)
 
 #### Articles
-* 04/24/2009 [Circular Gauge chart with GdiPlusX](http://weblogs.foxite.com/vfpimaging/archive/2009/04/24/8242.aspx) - VFPImaging
+* 04/24/2009 [Circular Gauge chart with GdiPlusX](https://vfpimaging.blogspot.com/2009/04/circular-gauge-chart-with-gdiplusx.html) - VFPImaging
 * 04/24/2009 [GDI+X Pad gets an update with added functionality and tutorial](http://weblogs.foxite.com/bernardbout/archive/2009/04/24/8241.aspx) - Bernard Bout
 * 04/14/2009 [Introducing the GDI+X Pad](http://weblogs.foxite.com/bernardbout/archive/2009/04/14/8096.aspx) - Bernard Bout
 * 10/24/2008 [Glow-In-The-Dark Buttons with GDI+X](http://weblogs.foxite.com/bernardbout/archive/2008/10/24/7163.aspx) - Bernard Bout
